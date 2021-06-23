@@ -1,2 +1,2 @@
 # goit-markup-hw-02
-https://github.com/zenya385/goit-markup-hw-02.git
+https://zenya385.github.io/goit-markup-hw-02/
